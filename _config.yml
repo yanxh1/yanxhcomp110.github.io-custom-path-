@@ -29,10 +29,10 @@ url: "https://yanxh1.github.io" # the base hostname & protocol for your site, e.
 github_username:  yanxh1
 # Build settings
 # Build settings
-theme: minima
+theme: "jekyll/minima@1e8a445"
 
 plugins:
-  - yanxh1-remote-theme
+  - jekyll-remote-theme
 #- jekyll-feed
 # Exclude from processing.
 # The following items will not be processed, by default.
