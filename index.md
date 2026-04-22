@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Welcome to our COMP110 Website
-<img src="{{ site.yanxhcomp110 }}/static/imgs/logo.png" alt="Comp110 logo" width="500"/>
+<img src="{{ site.baseurl }}/static/imgs/logo.png" alt="Comp110 logo" width="500"/>
 
 ## About Us
 Hi! My name is Yanxin Han, and my partner is Jingyin Liao.
